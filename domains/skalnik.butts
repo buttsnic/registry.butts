@@ -1,5 +1,3 @@
 {
-    "cname":[
-        { "name": "mikeskalnik.com", "alias": "@" }
-    ]
+  "@cname": ['mikeskalnik.com']
 }

@@ -1,6 +1,6 @@
 {
-    "ns": [
-        { "host": "ns1.extremewebcoders.com." },
-        { "host": "ns2.extremewebcoders.com." }
-    ]
+  "@ns": [
+    "ns1.extremewebcoders.com.",
+    "ns2.extremewebcoders.com."
+  ]
 }
