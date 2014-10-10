@@ -1,6 +1,6 @@
 {
     "a": [
-        { "name": "@", "ip": "104.131.66.225" }
+        { "name": "@", "ip": "204.232.175.78" }
     ],
     "cname":[
         { "name": "www", "alias": "registry.butts." }
