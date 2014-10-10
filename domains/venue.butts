@@ -3,6 +3,6 @@
         { "name": "@", "ip": "104.131.66.225" }
     ],
     "cname":[
-        { "name": "www", "alias": "@" }
+        { "name": "www", "alias": "venue.butts." }
     ]
 }
