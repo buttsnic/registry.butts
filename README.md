@@ -38,5 +38,8 @@ The start of authority is the domain name in the file name - in this case whatev
 
 ## how do I use .butts domains
 
-This requires a dns proxy. You can [run your own](https://www.npmjs.org/package/dotbutts). There is not yet a publically
-available dns proxy for .butts, but if you want to start one, let me know and I'll link it here.
+This requires a dns proxy.
+
+Currently, there is an experimental .butts-compliant DNS server running at `104.131.66.225` - uptime not guaranteed.
+
+You can also [run your own](https://www.npmjs.org/package/dotbutts) which is better for your privacy since it means your DNS requests never go to the .butts server.
