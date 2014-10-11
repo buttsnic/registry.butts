@@ -41,3 +41,7 @@ This requires a dns proxy.
 Currently, there is an experimental .butts-compliant DNS server running at `104.131.66.225` - uptime not guaranteed.
 
 You can also [run your own](https://www.npmjs.org/package/dotbutts) which is better for your privacy since it means your DNS requests never go to the .butts server.
+
+## contact
+
+come say hi in [#dotbutts on irc.freenode.net](https://webchat.freenode.net/?channels=dotbutts)
