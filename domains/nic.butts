@@ -1,6 +1,6 @@
 {
   "@a": ["104.131.66.225"],
   "www": {
-    "@cname": ['nic.butts.']
+    "@cname": ["nic.butts."]
   }
 }

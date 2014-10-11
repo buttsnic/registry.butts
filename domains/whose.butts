@@ -1,6 +1,6 @@
 {
-  "@cname": ['whois.butts.'],
+  "@cname": ["whois.butts."],
   "www": {
-    "@cname": ['whose.butts.']
+    "@cname": ["whose.butts."]
   }
 }
