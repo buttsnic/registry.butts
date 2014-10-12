@@ -9,9 +9,9 @@ send a pull request adding a file with the domain name you want, e.g., `revoluti
 the contents of the file should be valid JSON describing DNS records, like such: 
 ```json
 {
-  "@a": ['104.131.66.225'],
+  "@a": ["104.131.66.225"],
   "www": {
-    "@cname": ['jden.butts.']
+    "@cname": ["jden.butts."]
   }
 }
 ```
