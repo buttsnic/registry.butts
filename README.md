@@ -45,3 +45,7 @@ You can also [run your own](https://www.npmjs.org/package/dotbutts) which is bet
 ## contact
 
 come say hi in [#dotbutts on irc.freenode.net](https://webchat.freenode.net/?channels=dotbutts)
+
+## code of conduct
+.butts has values, see https://github.com/jden/registry.butts/blob/master/CONTRIBUTING.md -
+essentially, we won't let you register a stupid domain, and if you're doing things that are bad and hurting people we will delete your .butts domain so fast you won't realize what happened to your .butts, so be nice.
