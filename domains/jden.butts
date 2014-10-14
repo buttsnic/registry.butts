@@ -2,5 +2,8 @@
   "@cname": ["jden.github.io"],
   "www": {
     "@cname": ["jden.butts."]
+  },
+  "ship": {
+    "@a": ["104.131.66.225"]
   }
 }
