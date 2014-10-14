@@ -16,6 +16,13 @@ the contents of the file should be valid JSON describing DNS records, like such:
 }
 ```
 
+## how much does my .butts domain cost?
+It's absolutely free. Think about it - it's just a minuscule entry in some computer
+database somewhere. Why on earth should there be a fee associated with that?
+For that matter, I'm not sure why any other domain registrar charges, either.
+
+## go on, gimme details
+
 I'll get around to documenting the file format more later, but for now
 feel free to ask in the issues or in your pull request and we will help
 make sure it's right!
