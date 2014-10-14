@@ -1,3 +1,6 @@
 {
-  "@cname": ["kidicarus.cool."]
+  "@cname": ["kidicarus.cool."],
+  "ship": {
+    "@cname": ["ryry.butts"]
+  }
 }
