@@ -20,7 +20,7 @@ I'll get around to documenting the file format more later, but for now
 feel free to ask in the issues or in your pull request and we will help
 make sure it's right!
 
-Essentially, starting at your second level domain, eg `foo.buts`, you
+Essentially, starting at your second level domain, eg `foo.butts`, you
 can create records or subdomains in the json tree. Records start with '@',
 and subdomains are any other json property. This way, the tree structure of
 the json document matches the subdomain structure.
