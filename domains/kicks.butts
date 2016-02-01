@@ -1,3 +1,7 @@
 {
-  "@cname":["developdigitally.com."]
+  "@ns": [
+    "ns1.linode.com.",
+    "ns2.linode.com."
+  ]
 }
+
